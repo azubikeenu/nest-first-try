@@ -1,2 +1,2 @@
 ## CAR ESTIMATE API
-  An API for car
+  An API for cars
